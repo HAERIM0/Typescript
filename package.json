@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "bulid": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAERIM0/Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAERIM0/Typescript/issues"
+  },
+  "homepage": "https://github.com/HAERIM0/Typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
