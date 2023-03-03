@@ -1,0 +1,30 @@
+.mainContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.appContainer {
+  width: 500px;
+  height: 800px;
+  background-color: rgb(255, 241, 253);
+  position: relative;
+}
+
+.inputText {
+  width: 100%;
+  height: 50px;
+  border: 0.1px solid black;
+  font-size: 18px;
+  text-align: center;
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 0;
+}
+
+.inputText:focus {
+  outline: none;
+  border: 1px solid black;
+}
